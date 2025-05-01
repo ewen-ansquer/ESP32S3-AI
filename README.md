@@ -5,7 +5,7 @@
 Train a small CNN model to classify fruit using TensorFlow on Google collab.
 
 ---
-Voici un récapitulatif simplifié des étapes à suivres pour réaliser son propre modèle et comment l'importer sur Arduino pour l'embarquer sur un licrocontrolleur XIAO ESP32S3 sense.
+Here is a simplified summary of the steps to follow to create your own model and how to import it into Arduino to deploy it on a XIAO ESP32S3 Sense microcontroller.
 
 ## TensorFlow
 
