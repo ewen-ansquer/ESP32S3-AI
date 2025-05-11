@@ -78,9 +78,4 @@ If not, you can look at the technical documentation. Example for the [XIO ESP32S
 You can also check our [sketch](xiao-esp32s3-sense_camera.ino).
 
 
-Before uploading, please check that PSRAM is enabled ('Tools' > 'PSRAM')
-Review suggestions
-3
-unlocked-suggestion-icon
-…section, you are going to will learn how to…
-uphook-message-icon
+Before uploading, please check that PSRAM is enabled ('Tools' > 'PSRAM').
