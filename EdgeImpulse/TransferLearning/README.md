@@ -63,4 +63,9 @@ Once you choose your image color depth, you have to save the parameters. Next, c
 ![build](build.png)
 
 
+You can also use our trained models :
+1.[Apple, Banana](ei-esp32-s3-transfer-learning-arduino-1.0.3.zip): [Project here](https://studio.edgeimpulse.com/public/685609/live) ;
+2.[Apple, Banana, Pear](ei-esp32-s3-transfer-learning-3-objects-arduino-1.0.8.zip): [Project here](https://studio.edgeimpulse.com/public/709740/live).
+
+
 You can go back to the parent folder "Edge Impulse".
